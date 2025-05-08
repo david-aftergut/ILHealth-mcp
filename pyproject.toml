@@ -1,0 +1,13 @@
+[project]
+name = "health-data-mcp"
+version = "1.0.0"
+description = "Israel Health Data MCP Server"
+requires-python = ">=3.10"
+authors = [
+]
+
+dependencies = [
+    "fastmcp",
+    "httpx"
+]
+

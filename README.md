@@ -1,6 +1,7 @@
 # Israel Health Data MCP Server
 
-MCP server providing access to Israeli Ministry of Health data dashboard APIs.
+MCP server providing access to Israeli Ministry of Health data dashboard APIs.</br>
+See [Israeli Health Ministry Dashboard](https://datadashboard.health.gov.il/portal/dashboard/health).
 
 ## Description
 

@@ -6,8 +6,8 @@ See [Israeli Health Ministry Dashboard](https://datadashboard.health.gov.il/port
 ## Description
 
 This project provides a FastMCP server that interfaces with Israel's ministry of health data.
-Allowing wasy access to information about hospitals quality of service, surveys and much more.</br>
-It serves as a bridge between th MOH API and MCP clients.
+Allowing easy access to information about hospitals' quality of service, surveys and much more.</br>
+It serves as a bridge between the MOH API and MCP clients.
 
 ## Requirements
 
